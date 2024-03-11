@@ -14,3 +14,5 @@ https://manchandiary.tistory.com/
 📝노션
 
 https://www.notion.so/2e30d54f880241c9aad23b13a729ec6a
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManchanTime)](https://github.com/anuraghazra/github-readme-stats)
