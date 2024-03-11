@@ -15,6 +15,15 @@ https://manchandiary.tistory.com/
 
 https://www.notion.so/2e30d54f880241c9aad23b13a729ec6a
 
+📚프로젝트
+
+![image](https://github.com/ManchanTime/ManchanTime/assets/127479677/fd6142c0-9aac-4fb7-8b60-16fa7064ba52)
+
+![image](https://github.com/ManchanTime/ManchanTime/assets/127479677/cb758a58-d155-4200-a3d2-45ae132ece65)
+
+![image](https://github.com/ManchanTime/ManchanTime/assets/127479677/4acb5811-d660-4c90-9c41-ee35def3d176)
+
+
 👶내 상태
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManchanTime)](https://github.com/anuraghazra/github-readme-stats)
