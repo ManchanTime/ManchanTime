@@ -15,4 +15,6 @@ https://manchandiary.tistory.com/
 
 https://www.notion.so/2e30d54f880241c9aad23b13a729ec6a
 
+👶내 상태
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManchanTime)](https://github.com/anuraghazra/github-readme-stats)
