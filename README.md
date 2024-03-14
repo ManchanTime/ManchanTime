@@ -21,7 +21,7 @@ https://nostalgic-salsa-109.notion.site/2e30d54f880241c9aad23b13a729ec6a?v=db168
 
 📚프로젝트
 
-![image](https://github.com/ManchanTime/ManchanTime/assets/127479677/fd6142c0-9aac-4fb7-8b60-16fa7064ba52)
+[ProPlat](https://github.com/SystemArchitecture-ProPlat/ProPlat)
 
 ![image](https://github.com/ManchanTime/ManchanTime/assets/127479677/cb758a58-d155-4200-a3d2-45ae132ece65)
 
