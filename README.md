@@ -20,6 +20,7 @@ https://manchandiary.tistory.com/
 
 https://nostalgic-salsa-109.notion.site/2e30d54f880241c9aad23b13a729ec6a?v=db168a0c24ac4876af61dcdcfaa3a56c&pvs=4
 
+
 📚프로젝트
 
 [![image](https://github.com/ManchanTime/ManchanTime/assets/127479677/ead10ab7-efc5-405a-966d-6a1b2d40d0ca)](https://github.com/SystemArchitecture-ProPlat/ProPlat)
