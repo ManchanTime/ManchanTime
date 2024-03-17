@@ -34,7 +34,7 @@
 > > + Language: JAVA
 > > + Skill: Spring Boot, JPA, MySQL
 > > 
-> > [프로젝트 리포지토리(Back-End)](https://github.com/SystemArchitecture-ProPlat/ProPlat)
+> > [프로젝트 리포지토리(Back-End)](https://github.com/SystemArchitecture-ProPlat/Proplat_Back)
 >    
 > > Front-End
 > >
