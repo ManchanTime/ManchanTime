@@ -23,6 +23,8 @@
 ### 📚프로젝트
 
 >  ## 1. ProPlat
+>
+> [프로젝트 상세](https://github.com/SystemArchitecture-ProPlat/ProPlat/tree/main)
 >  
 >  동아리 및 프로젝트 구인 정보 웹 서비스
 >  
@@ -34,7 +36,7 @@
 > > + Language: JAVA
 > > + Skill: Spring Boot, JPA, MySQL
 > > 
-> > [프로젝트 리포지토리(Back-End)](https://github.com/SystemArchitecture-ProPlat/Proplat_Back)
+> > [프로젝트(Back-End)](https://github.com/SystemArchitecture-ProPlat/Proplat_Back)
 >    
 > > Front-End
 > >
