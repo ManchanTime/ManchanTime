@@ -13,7 +13,7 @@
 
 >https://manchandiary.tistory.com/
 
-### 📝노션
+### 📝포트폴리오
 
 >https://nostalgic-salsa-109.notion.site/2e30d54f880241c9aad23b13a729ec6a?v=db168a0c24ac4876af61dcdcfaa3a56c&pvs=4
 <br/>
