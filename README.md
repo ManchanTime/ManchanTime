@@ -34,7 +34,7 @@
 > > Back-End
 > > 
 > > + Language: JAVA
-> > + Skill: Spring Boot, JPA, MySQL
+> > + Skill: Spring Boot, JPA, QueryDsl, MySQL
 > > 
 > > [프로젝트(Back-End)](https://github.com/SystemArchitecture-ProPlat/Proplat_Back)
 >    
