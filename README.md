@@ -24,7 +24,9 @@
 
 >  ## 1. ProPlat
 >
-> [프로젝트 상세](https://github.com/SystemArchitecture-ProPlat/ProPlat/tree/main)
+> <a href="https://github.com/SystemArchitecture-ProPlat/ProPlat/tree/main">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=ProPlat&theme=gruvbox">
+> </a>
 >  
 >  동아리 및 프로젝트 구인 정보 웹 서비스
 >  
