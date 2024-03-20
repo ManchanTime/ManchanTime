@@ -25,7 +25,7 @@
 >  ## 1. ProPlat
 >
 > <a href="https://github.com/SystemArchitecture-ProPlat/ProPlat/tree/main">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=ProPlat&theme=gruvbox">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat&theme=gruvbox">
 > </a>
 >  
 >  동아리 및 프로젝트 구인 정보 웹 서비스
@@ -38,7 +38,10 @@
 > > + Language: JAVA
 > > + Skill: Spring Boot, JPA, QueryDsl, MySQL
 > > 
-> > [프로젝트(Back-End)](https://github.com/SystemArchitecture-ProPlat/Proplat_Back)
+> > <a href="https://github.com/SystemArchitecture-ProPlat/Proplat_Back">
+> >   <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat_Back&theme=gruvbox">
+> > </a>
+> >
 >    
 > > Front-End
 > >
