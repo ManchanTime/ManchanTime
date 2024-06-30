@@ -48,6 +48,48 @@
 > > + Language: javascript
 > > + Skill: React.js
 
+>  ## 2. WithSafe
+>
+> <a href="https://github.com/LAB-2023/WithSafe-Server">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=LAB-2023&repo=WithSafe-Server&theme=gruvbox">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=LAB-2023&repo=WithSafe-Mybatis&theme=gruvbox">
+> </a>
+>  
+>  (주)SbSystems과 함께 진행한 공사장 실시간 안전 관리 웹 애플리케이션
+>  
+>  + 개발기간: 2023.06.11 ~ 2024.02.06
+>  + 역할: Back-End 개발 및 데이터베이스 설계 구축(JPA와 MyBatis 방식 두 가지로 구현)
+>  
+> > Back-End
+> > 
+> > + Language: JAVA
+> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, MyBatis
+> > 
+>
+> 
+>  ## 2. BBang
+>
+> <a href="https://github.com/kea-semicolon/MeetOnBE_GateWay">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=kea-semicolon&repo=MeetOnBE_Gateway&theme=gruvbox">
+> </a>
+>  
+>  짧은 기간 프로젝트를 위한 쉽고 다양한 기능의 웹 애플리케이션
+>  
+>  + 개발기간: 2024.03.02 ~ 2024.6.15
+>  + 역할: Back-End 개발 및 데이터베이스 설계 구축
+>  
+> > Back-End
+> > 
+> > + Language: JAVA
+> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Spring Cloud, AWS, Kafka, WebClient
+> > 
+>
+> > Front-End
+> >
+> > + Language: typeScript
+> > + Skill: Next.js
+
+
 ### 👶내 상태
 
 >[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManchanTime)](https://github.com/anuraghazra/github-readme-stats)
