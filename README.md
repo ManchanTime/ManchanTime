@@ -67,7 +67,7 @@
 > > 
 >
 > 
->  ## 2. BBang
+>  ## 3. BBang
 >
 > <a href="https://github.com/kea-semicolon/MeetOnBE_GateWay">
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=kea-semicolon&repo=MeetOnBE_Gateway&theme=gruvbox">
