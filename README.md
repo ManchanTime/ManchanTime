@@ -81,7 +81,7 @@
 > > Back-End
 > > 
 > > + Language: JAVA
-> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Spring Cloud, AWS, Kafka, WebClient
+> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Spring Cloud, AWS, Kafka, WebClient, Oauth
 > > 
 >
 > > Front-End
