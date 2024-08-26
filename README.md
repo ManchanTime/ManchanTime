@@ -88,7 +88,25 @@
 > >
 > > + Language: typeScript
 > > + Skill: Next.js
-
+>  ## 4. Dkation
+>
+> <a href="https://github.com/SystemArchitecture-ProPlat/ProPlat/tree/main">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat&theme=gruvbox">
+> </a>
+>  
+>  Dktechin 기업 실무 Workation 추첨 시스템
+>  
+>  + 개발기간: 2023.09.11 ~ 11.06
+>  + 역할: Back-End 개발 및 데이터베이스 설계 구축
+>  
+> > Back-End
+> > 
+> > + Language: JAVA
+> > + Skill: Spring Boot, JPA, QueryDsl, MySQL 
+> > 
+> > <a href="https://github.com/SystemArchitecture-ProPlat/Proplat_Back">
+> >   <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat_Back&theme=gruvbox">
+> > </a>
 
 ### 👶내 상태
 
