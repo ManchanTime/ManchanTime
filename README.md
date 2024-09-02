@@ -43,11 +43,6 @@
 > > </a>
 > >
 >    
-> > Front-End
-> >
-> > + Language: javascript
-> > + Skill: React.js
-
 >  ## 2. WithSafe
 >
 > <a href="https://github.com/LAB-2023/WithSafe-Server">
@@ -84,17 +79,13 @@
 > > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Spring Cloud, AWS, Kafka, WebClient, Oauth
 > > 
 >
-> > Front-End
-> >
-> > + Language: typeScript
-> > + Skill: Next.js
->  ## 4. Dkation
+>  ## 4.Dkation
 >
-> <a href="https://github.com/SystemArchitecture-ProPlat/ProPlat/tree/main">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat&theme=gruvbox">
+> <a href="https://github.com/TEAM-MONGDOL/dkation-be">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TEAM-MONGDOL&repo=dkation-be&theme=gruvbox">
 > </a>
 >  
->  Dktechin 기업 실무 Workation 추첨 시스템
+>  Dktechin 기업 실무 Workation 추첨 시스템
 >  
 >  + 개발기간: 2024.07.01 ~ 8.22
 >  + 역할: Back-End 개발 및 데이터베이스 설계 구축
@@ -102,11 +93,22 @@
 > > Back-End
 > > 
 > > + Language: JAVA
-> > + Skill: Spring Boot, JPA, QueryDsl, MySQL 
+> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3
+>  ## 5.Focusider
+>
+> <a href="https://github.com/gcuswmono/Focusider-BE">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=gcuswmono&repo=Focusider-BE&theme=gruvbox">
+> </a>
+>  
+>  공개 SW 공모전 아이들 문해력, 단어 이해력 향상 도움 애플리케이션
+>  
+>  + 개발기간: 2024.07.15 ~ 8.22
+>  + 역할: Back-End 개발 및 데이터베이스 설계 구축
+>  
+> > Back-End
 > > 
-> > <a href="https://github.com/SystemArchitecture-ProPlat/Proplat_Back">
-> >   <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat_Back&theme=gruvbox">
-> > </a>
+> > + Language: JAVA
+> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3, Spring AI
 
 ### 👶내 상태
 
