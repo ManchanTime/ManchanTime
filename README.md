@@ -85,7 +85,7 @@
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TEAM-MONGDOL&repo=dkation-be&theme=gruvbox">
 > </a>
 >  
->  Dktechin 기업 실무 Workation 추첨 시스템
+>  Dktechin 기업 실무 Workation 추첨 시스템(private)
 >  
 >  + 개발기간: 2024.07.01 ~ 8.22
 >  + 역할: Back-End 개발 및 데이터베이스 설계 구축
