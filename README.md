@@ -100,7 +100,7 @@
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=gcuswmono&repo=Focusider-BE&theme=gruvbox">
 > </a>
 >  
->  아이들 문해력, 단어 이해력 향상 도움 애플리케이션
+>  오픈 소스 공모전 프로젝트 아이들 문해력, 단어 이해력 향상 도움 애플리케이션
 >  
 >  + 개발기간: 2024.07.15 ~ 8.22
 >  + 역할: Back-End 개발 및 데이터베이스 설계 구축
