@@ -110,6 +110,22 @@
 > > 
 > > + Language: JAVA
 > > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3, Spring AI
+>  ## 5.Focusider
+>
+> <a href="https://github.com/TranStreaming-gc/fcm.git">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TranStreaming-gc&repo=fcm&theme=gruvbox">
+> </a>
+>  
+>  K-paas 공모전 프로젝트 재난 알림 및 대피 방법 알림 어플리케이션
+>  서버 종료
+>  
+>  + 개발기간: 2024.09.15 ~ 10.31
+>  + 역할: Back-End 개발 및 FCM 통신 서비스 구축
+>  
+> > Back-End
+> > 
+> > + Language: JAVA
+> > + Skill: Spring Boot, JPA, QueryDsl, PostgreSQL, Redis Pub.Sub, FCM
 
 ### 👶내 상태
 
