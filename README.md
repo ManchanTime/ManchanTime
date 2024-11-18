@@ -113,7 +113,7 @@
 >  ## 재난 알리미
 >
 > <a href="https://github.com/TranStreaming-gc/fcm">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TranStreaming-gc&repo=fcm&theme=gruvbox">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TranStreaming-gc&repo=fcm&theme=gruvbox&cache_seconds=1800">
 > </a>
 >  
 >  K-paas 공모전 프로젝트 재난 알림 및 대피 방법 알림 어플리케이션
