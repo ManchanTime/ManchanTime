@@ -96,7 +96,7 @@
 > > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3
 >  ## 5.Focusider
 >
-> <a href="https://github.com/gcuswmono/Focusider-BE">
+> <a href="https://github.com/ManchanTime/Focusider-BE">
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=gcuswmono&repo=Focusider-BE&theme=gruvbox">
 > </a>
 >  
