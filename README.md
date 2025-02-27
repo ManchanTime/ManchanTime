@@ -112,7 +112,7 @@
 > > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3, Spring AI
 >  ## 6.재난 알리미
 >
-> <a href="https://github.com/TranStreaming-gc/fcm">
+> <a href="https://github.com/ManchanTime/fcm">
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TranStreaming-gc&repo=fcm&theme=gruvbox&cache_seconds=1800">
 > </a>
 >  
