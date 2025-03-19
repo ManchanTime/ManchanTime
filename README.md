@@ -79,7 +79,7 @@
 > > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Spring Cloud, AWS, Kafka, WebClient, Oauth
 > > 
 >
->  ## 4.Dkation
+>  ## 4. Dkation
 >
 > <a href="https://github.com/TEAM-MONGDOL/dkation-be">
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TEAM-MONGDOL&repo=dkation-be&theme=gruvbox">
@@ -94,7 +94,7 @@
 > > 
 > > + Language: JAVA
 > > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3
->  ## 5.Focusider
+>  ## 5. Focusider
 >
 > <a href="https://github.com/ManchanTime/Focusider-BE">
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=gcuswmono&repo=Focusider-BE&theme=gruvbox">
@@ -110,7 +110,7 @@
 > > 
 > > + Language: JAVA
 > > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3, Spring AI
->  ## 6.재난 알리미
+>  ## 6. 재난 알리미
 >
 > <a href="https://github.com/ManchanTime/fcm">
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TranStreaming-gc&repo=fcm&theme=gruvbox&cache_seconds=1800">
@@ -128,10 +128,8 @@
 > > + Skill: Spring Boot, JPA, QueryDsl, PostgreSQL, Redis Pub.Sub, FCM
 
 ### 👶내 상태
-
 >![ManchanTime's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManchanTime&show_icons=true&theme=radical)
 >
->
->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManchanTime&layout=compact)
+>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lych0918)](https://solved.ac/lych0918/)
 >
 >[![코드트리|실력진단-lych0918](https://banner.codetree.ai/v1/banner/lych0918)](https://www.codetree.ai/profiles/lych0918)
