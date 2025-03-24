@@ -15,7 +15,7 @@
 
 ### 📝포트폴리오
 
->https://nostalgic-salsa-109.notion.site/1c0c9cd36a7180658938fd54a3cd3866
+>https://www.notion.so/1c0c9cd36a7180658938fd54a3cd3866
 <br/>
 <br/>
 
