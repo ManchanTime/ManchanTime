@@ -131,5 +131,3 @@
 >![ManchanTime's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManchanTime&show_icons=true&theme=radical)
 >
 >[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lych0918)](https://solved.ac/lych0918/)
->
->[![코드트리|실력진단-lych0918](https://banner.codetree.ai/v1/banner/lych0918)](https://www.codetree.ai/profiles/lych0918)
