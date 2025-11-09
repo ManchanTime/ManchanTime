@@ -16,6 +16,8 @@
 ### 📝포트폴리오
 
 >https://nostalgic-salsa-109.notion.site/1c0c9cd36a7180658938fd54a3cd3866?pvs=4
+>
+>https://nostalgic-salsa-109.notion.site/SYNC-Projects-SYNCRoad-1f4c9cd36a718028a98df9c0bd26b888?source=copy_link
 <br/>
 <br/>
 
